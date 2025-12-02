@@ -1,4 +1,4 @@
-# House Price Prediction / Customer Churn / Iris Classification (update title)
+# House Price Prediction / Breast Cancer / Iris Classification (update title)
 
 End-to-end machine learning pipeline including:
 
